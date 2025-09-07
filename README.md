@@ -1,0 +1,2 @@
+# dbscript
+database sc
